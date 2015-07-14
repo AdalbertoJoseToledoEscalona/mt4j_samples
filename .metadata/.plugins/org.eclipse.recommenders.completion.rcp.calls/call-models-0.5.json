@@ -1,0 +1,17 @@
+{
+  "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/core.jar": {
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/core.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/core.jar\u0027. Neither fingerprint \u00277abbb0f6cce05334802522bfa1f222a847a0c68d\u0027 nor symbolic name \u0027core\u0027 are known."
+  },
+  "/home/adalberto/proyectos/mt4j_samples/MT4j/src": {
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027/home/adalberto/proyectos/mt4j_samples/MT4j/src\u0027. Skipped."
+  },
+  "/home/adalberto/proyectos/mt4j_samples/MT4j/tutorials": {
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/tutorials",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027/home/adalberto/proyectos/mt4j_samples/MT4j/tutorials\u0027. Skipped."
+  }
+}

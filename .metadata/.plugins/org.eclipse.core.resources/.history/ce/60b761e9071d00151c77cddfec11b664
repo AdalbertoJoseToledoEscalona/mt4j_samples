@@ -1,0 +1,31 @@
+/**
+ * 
+ */
+package components;
+
+import org.mt4j.MTApplication;
+
+/**
+ * @author adalberto
+ *
+ */
+public class StartComponent extends MTApplication {
+
+	/* (non-Javadoc)
+	 * @see org.mt4j.MTApplication#startUp()
+	 */
+	@Override
+	public void startUp() {
+		// TODO Auto-generated method stub
+
+	}
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

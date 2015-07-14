@@ -1,0 +1,29 @@
+/**
+ * 
+ */
+package components;
+
+import org.mt4j.MTApplication;
+
+/**
+ * @author adalberto
+ *
+ */
+public class StartComponent extends MTApplication {
+
+	/* (non-Javadoc)
+	 * @see org.mt4j.MTApplication#startUp()
+	 */
+	@Override
+	public void startUp() {
+		addScene(new ComponentScene(this, "Component Scene"));
+	}
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		initialize();
+	}
+
+}

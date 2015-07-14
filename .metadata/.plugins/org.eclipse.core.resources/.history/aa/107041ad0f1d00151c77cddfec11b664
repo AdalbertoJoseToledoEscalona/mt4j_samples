@@ -1,0 +1,33 @@
+/**
+ * 
+ */
+package components;
+
+import org.mt4j.components.MTComponent;
+import org.mt4j.components.visibleComponents.shapes.MTPolygon;
+import org.mt4j.util.camera.Icamera;
+
+import processing.core.PApplet;
+import processing.core.PGraphics;
+
+/**
+ * @author adalberto
+ *
+ */
+public class MyComponent extends MTPolygon {
+
+	/**
+	 * @param pApplet
+	 */
+	
+	
+	@Override
+	public void drawComponent(PGraphics g) {
+		super.drawComponent(g);
+		
+		g.fill(255, 0, 0);
+		g.stroke(0, 0, 255);
+		g.triangle(30, 75, 58, 20, 86, 75);
+	}
+
+}

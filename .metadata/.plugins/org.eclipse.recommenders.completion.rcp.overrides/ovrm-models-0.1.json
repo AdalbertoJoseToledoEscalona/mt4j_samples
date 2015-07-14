@@ -1,0 +1,12 @@
+{
+  "/usr/lib/jvm/java-7-openjdk-i386/jre/lib/rt.jar": {
+    "coordinate": "jre:jre:zip:ovrm:1.0.0",
+    "location": "/usr/lib/jvm/java-7-openjdk-i386/jre/lib/rt.jar",
+    "status": "RESOLVED"
+  },
+  "/home/adalberto/proyectos/mt4j_samples/MT4j/src": {
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027/home/adalberto/proyectos/mt4j_samples/MT4j/src\u0027. Skipped."
+  }
+}

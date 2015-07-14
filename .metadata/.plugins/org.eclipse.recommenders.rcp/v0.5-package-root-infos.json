@@ -1,0 +1,704 @@
+[
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0522b7978ff0494e6ec49ce846841c394a328940",
+    "jarFileModificationDate": "2015-04-16T04:06:04-04:30",
+    "location": "/usr/lib/jvm/java-7-openjdk-i386/jre/lib/resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4337d12a1ed216c27c80eab4b196b2fb5210f6a3",
+    "jarFileModificationDate": "2015-04-16T03:59:56-04:30",
+    "location": "/usr/lib/jvm/java-7-openjdk-i386/jre/lib/ext/sunpkcs11.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "13f1b361090b36111f733d2d2f6ab6db2c9958ca",
+    "jarFileModificationDate": "2013-12-09T07:20:36-04:30",
+    "location": "/usr/lib/jvm/java-7-openjdk-i386/jre/lib/ext/java-atk-wrapper.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d95144400b0750b474a21f250c6beed6d798b39d",
+    "jarFileModificationDate": "2015-04-16T03:59:45-04:30",
+    "location": "/usr/lib/jvm/java-7-openjdk-i386/jre/lib/jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "batik-svggen",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "16e4f40d2bb3269b39560c0e7c392757f2440038",
+    "jarFileModificationDate": "2010-08-13T00:15:34-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/batik/batik-svggen.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "batik-xml",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bb43b72f2e6e3238e5cadbe5d0a6af619b34927a",
+    "jarFileModificationDate": "2010-08-13T00:15:34-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/batik/batik-xml.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "libTUIO",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2a8b4ea6f36afa02deef9f5720e4e4a7e6fd2de5",
+    "jarFileModificationDate": "2010-08-13T00:15:34-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/tuio/libTUIO.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "concurrent-1.3.4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "aa82c629dcf0b76c79ee984023542b69289c2734",
+    "jarFileModificationDate": "2010-08-13T00:15:34-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/whirlylib/concurrent-1.3.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jogl",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e73e4a9765a33e35604f2834ced465498a13f52b",
+    "jarFileModificationDate": "2010-08-13T00:15:34-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/jogl/jogl.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "batik-ext",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e5658be221e45f7f96179ed225807c319272f5d6",
+    "jarFileModificationDate": "2010-08-13T00:15:34-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/batik/batik-ext.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4f4945c97ac8f5e18356b8ea715ce2fe72af7ea3",
+    "jarFileModificationDate": "2015-04-16T04:02:06-04:30",
+    "location": "/usr/lib/jvm/java-7-openjdk-i386/jre/lib/ext/zipfs.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "flickrj",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "93d9fcd0119b06ca65134b6b051f06c3a9433a0b",
+    "jarFileModificationDate": "2010-08-13T05:54:38-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/examples/advanced/flickrMT/lib/flickrj.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "batik-script",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1acf5319a3a1bee5dedb10a356c1b800f1fc4b28",
+    "jarFileModificationDate": "2010-08-13T00:15:34-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/batik/batik-script.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "log4j-1.2.8",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3640dd71069d7986c9a14d333519216f4ca5c094",
+    "jarFileModificationDate": "2010-08-13T00:15:34-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/whirlylib/log4j-1.2.8.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "pdf-transcoder",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "41d206ee233c3a653fb22be74128f637a5ec262f",
+    "jarFileModificationDate": "2010-08-13T00:15:34-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/batik/pdf-transcoder.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "js",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "688eb1bf13b7a54491fcb3405068fc5092589884",
+    "jarFileModificationDate": "2010-08-13T00:15:34-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/batik/js.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "batik-transcoder",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "33db4d3498726a7bb7f201d8a3891b6f6170888e",
+    "jarFileModificationDate": "2010-08-13T00:15:34-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/batik/batik-transcoder.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "28e68708eac9d3417733acc22fa8122cfd79f4dc",
+    "jarFileModificationDate": "2015-04-16T04:00:13-04:30",
+    "location": "/usr/lib/jvm/java-7-openjdk-i386/jre/lib/ext/localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8a5dfebe108665603c3d82db0573f3b54f7461d5",
+    "jarFileModificationDate": "2015-04-16T04:00:03-04:30",
+    "location": "/usr/lib/jvm/java-7-openjdk-i386/jre/lib/ext/dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "batik-gvt",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d7594f5f4341a1fefe696741a28630ac02d448fa",
+    "jarFileModificationDate": "2010-08-13T00:15:34-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/batik/batik-gvt.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b5e327a1ce0eca208fa6d1095d22d7367fcaf40c",
+    "jarFileModificationDate": "2015-04-16T04:06:04-04:30",
+    "location": "/usr/lib/jvm/java-7-openjdk-i386/jre/lib/rhino.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "muito_blobtracking",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9390e103c6571e8ad21e560636282413d59f8b81",
+    "jarFileModificationDate": "2010-08-13T00:15:34-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/muito_blobtracking.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "batik-util",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cbee21ac9ef6e06b9bc4aa359cb1fc285c4b5944",
+    "jarFileModificationDate": "2010-08-13T00:15:34-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/batik/batik-util.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "MSAFluid",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d2ce996d3e3ccdd73299bad4e9a7812d75aa0c07",
+    "jarFileModificationDate": "2010-08-13T05:54:38-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/examples/advanced/fluidSimulator/lib/MSAFluid.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "xml-apis-ext",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "41a8b86b358e87f3f13cf46069721719105aff66",
+    "jarFileModificationDate": "2010-08-13T00:15:34-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/batik/xml-apis-ext.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "gsvideo06pre",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a0c72926f9f837d71ccb9ea84d89d2f2dc5cd4d6",
+    "jarFileModificationDate": "2010-08-13T00:15:34-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/gsvideo/gsvideo06pre.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2dfb9fc478ab8198b7ccfab4af83ab901b12f291",
+    "jarFileModificationDate": "2015-04-16T04:06:04-04:30",
+    "location": "/usr/lib/jvm/java-7-openjdk-i386/jre/lib/jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "whirlycache-1.0.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b2fff76aa4f75bfa88779bc714ffc74f8c448c13",
+    "jarFileModificationDate": "2010-08-13T00:15:34-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/whirlylib/whirlycache-1.0.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jbox2d",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b8a1da3881b9dba8e0ae2ea23ce21d39d7a4e904",
+    "jarFileModificationDate": "2010-08-13T05:54:40-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/examples/advanced/physics/lib/jbox2d.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-logging",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "760c711c71588bc273d3e56d196d720a7678cd93",
+    "jarFileModificationDate": "2010-08-13T00:15:34-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/whirlylib/commons-logging.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "modestMaps",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9c8200d40e11de4fa0c283e5ec153d02d4b799e3",
+    "jarFileModificationDate": "2010-08-13T05:54:38-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/examples/advanced/modestMapsMT/lib/modestMaps.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "mri",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7c5c4b0b78641d665153e10ea315d9eec797382a",
+    "jarFileModificationDate": "2010-08-13T00:15:34-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/mri.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "GlulogicMT",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3ac240523ad15d5e11a947af40f0e25bf867538c",
+    "jarFileModificationDate": "2010-08-13T00:15:34-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/GlulogicMT.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "batik-css",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7f2495cc99810de7b96c22fd7c96da79bf0215c5",
+    "jarFileModificationDate": "2010-08-13T00:15:34-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/batik/batik-css.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "batik-extension",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "beb73ed4f92612ac2ed8ea5c3234c1356f8dc5df",
+    "jarFileModificationDate": "2010-08-13T00:15:34-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/batik/batik-extension.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "waterScene",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b89c14b71dcff40bff1357c74b711a7964159e05",
+    "jarFileModificationDate": "2010-08-13T05:54:40-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/examples/advanced/water/lib/waterScene.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "opengl",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f103112c927ca4b6e72c22317165e7089b50cb65",
+    "jarFileModificationDate": "2010-08-13T00:15:34-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/jogl/opengl.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "batik-awt-util",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cc2bac990459e331566f66e479e717d89467c40e",
+    "jarFileModificationDate": "2010-08-13T00:15:34-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/batik/batik-awt-util.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bc16e0bdb0e7bbc6e1cb790148e7a17b40b313aa",
+    "jarFileModificationDate": "2015-04-16T04:01:36-04:30",
+    "location": "/usr/lib/jvm/java-7-openjdk-i386/jre/lib/ext/sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "gluegen-rt",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c778a698bf76aa54b1433906e2d4248f788a4713",
+    "jarFileModificationDate": "2010-08-13T00:15:34-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/jogl/gluegen-rt.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "gstreamer-java-bin-1.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9700f40d1190c30fefb95f88bdbf5cdcbf4cfdda",
+    "jarFileModificationDate": "2010-08-13T00:15:34-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/gsvideo/gstreamer-java-bin-1.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "batik-bridge",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ec98f88678c0c9ea5ca0731d18bc9ddc50572468",
+    "jarFileModificationDate": "2010-08-13T00:15:34-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/batik/batik-bridge.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "xml-apis",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "90b215f48fe42776c8c7f6e3509ec54e84fd65ef",
+    "jarFileModificationDate": "2010-08-13T00:15:34-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/batik/xml-apis.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "junit-3.8.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "99129f16442844f6a4a11ae22fbbee40b14d774f",
+    "jarFileModificationDate": "2010-08-13T00:15:34-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/whirlylib/junit-3.8.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "batik-parser",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e8fa5d149334895a66c9abd50a38ddac46c1f10b",
+    "jarFileModificationDate": "2010-08-13T00:15:34-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/batik/batik-parser.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6902f36bcde390e453295363e517510bc5f98de3",
+    "jarFileModificationDate": "2015-04-16T04:00:10-04:30",
+    "location": "/usr/lib/jvm/java-7-openjdk-i386/jre/lib/charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "batik-svg-dom",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0fda9dde36e36c67049fc87eccf4330e003b187b",
+    "jarFileModificationDate": "2010-08-13T00:15:34-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/batik/batik-svg-dom.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "batik-anim",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "04f6b23b2aeaae832465362af76c7d0e5f67b896",
+    "jarFileModificationDate": "2010-08-13T00:15:34-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/batik/batik-anim.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "core",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7abbb0f6cce05334802522bfa1f222a847a0c68d",
+    "jarFileModificationDate": "2010-08-13T00:15:34-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/core.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jna-3.1.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "67675f42f9218b7359a1ac2d4b04ded13656fa07",
+    "jarFileModificationDate": "2010-08-13T00:15:34-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/gsvideo/jna-3.1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7575b46ba6233eae9f1263efbf6f8747aba4f7f2",
+    "jarFileModificationDate": "2015-04-16T10:04:29-04:30",
+    "location": "/usr/lib/jvm/java-7-openjdk-i386/jre/lib/ext/icedtea-sound.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "commons-collections-3.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "40fb048097caeacdb11dbb33b5755854d89efdeb",
+    "jarFileModificationDate": "2010-08-13T00:15:34-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/whirlylib/commons-collections-3.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a7b4862dc872fb25692d8f6cb4cdcb5ea4778bbe",
+    "jarFileModificationDate": "2015-04-16T04:06:04-04:30",
+    "location": "/usr/lib/jvm/java-7-openjdk-i386/jre/lib/rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "batik-dom",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "20c83a064db750e341116fdcc3e9038258093052",
+    "jarFileModificationDate": "2010-08-13T00:15:34-04:30",
+    "location": "/home/adalberto/proyectos/mt4j_samples/MT4j/mt4jLibs/batik/batik-dom.jar",
+    "javaRuntime": false
+  }
+]

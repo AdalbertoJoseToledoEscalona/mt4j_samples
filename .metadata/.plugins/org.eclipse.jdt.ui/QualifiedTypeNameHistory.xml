@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.mt4j.input.inputProcessors.globalProcessors.CursorTracer"/>
+<fullyQualifiedTypeName name="org.mt4j.components.visibleComponents.widgets.MTTextArea"/>
+<fullyQualifiedTypeName name="org.mt4j.components.visibleComponents.font.FontManager"/>
+<fullyQualifiedTypeName name="org.mt4j.util.MTColor"/>
+<fullyQualifiedTypeName name="helloWorld.HelloWorldScene"/>
+<fullyQualifiedTypeName name="components.ComponentScene"/>
+<fullyQualifiedTypeName name="org.mt4j.input.inputData.MTInputEvent"/>
+<fullyQualifiedTypeName name="org.mt4j.components.MTComponent"/>
+<fullyQualifiedTypeName name="org.mt4j.input.IMTInputEventListener"/>
+<fullyQualifiedTypeName name="org.mt4j.input.inputData.InputCursor"/>
+<fullyQualifiedTypeName name="org.mt4j.components.interfaces.IMTComponent3D"/>
+<fullyQualifiedTypeName name="org.mt4j.input.inputData.AbstractCursorInputEvt"/>
+<fullyQualifiedTypeName name="java.lang.annotation.Target"/>
+<fullyQualifiedTypeName name="org.mt4j.components.visibleComponents.shapes.AbstractShape"/>
+<fullyQualifiedTypeName name="org.mt4j.input.inputProcessors.componentProcessors.dragProcessor.DragProcessor"/>
+<fullyQualifiedTypeName name="org.mt4j.input.inputProcessors.IGestureEventListener"/>
+<fullyQualifiedTypeName name="org.mt4j.input.inputProcessors.MTGestureEvent"/>
+<fullyQualifiedTypeName name="org.mt4j.input.inputProcessors.componentProcessors.dragProcessor.DragEvent"/>
+<fullyQualifiedTypeName name="org.mt4j.components.visibleComponents.shapes.MTPolygon"/>
+<fullyQualifiedTypeName name="components.MyComponent"/>
+<fullyQualifiedTypeName name="org.mt4j.util.math.Vector3D"/>
+<fullyQualifiedTypeName name="org.mt4j.components.TransformSpace"/>
+</qualifiedTypeNameHistroy>
