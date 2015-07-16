@@ -7,8 +7,8 @@ Renderer=1
 Fullscreen=true
 #Switch for using fullscreen exclusive mode 
 #(if not exclusive, mt4j just uses an undecorated window, other windows can overlap it)
-#FullscreenExclusive=false
-FullscreenExclusive=true
+FullscreenExclusive=false
+#FullscreenExclusive=true
 #Resolution
 DisplayWidth=1024
 DisplayHeight=768

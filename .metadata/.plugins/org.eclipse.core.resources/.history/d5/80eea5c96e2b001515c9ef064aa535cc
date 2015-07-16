@@ -1,0 +1,52 @@
+/**
+ * 
+ */
+package geometricShapes;
+
+import org.mt4j.MTApplication;
+import org.mt4j.input.inputProcessors.globalProcessors.CursorTracer;
+import org.mt4j.sceneManagement.AbstractScene;
+import org.mt4j.util.MTColor;
+import org.mt4j.util.math.Vertex;
+
+/**
+ * @author adalberto
+ *
+ */
+public class GeometricShapesScene extends AbstractScene {
+
+	/**
+	 * @param mtApplication
+	 * @param name
+	 */
+	public GeometricShapesScene(MTApplication mtApplication, String name) {
+		super(mtApplication, name);
+		this.setClearColor(new MTColor(0, 0, 0, 255));
+		
+		this.registerGlobalInputProcessor(new CursorTracer(mtApplication, this));
+		
+		Vertex[] v = new Vertex(){
+			
+		};
+		
+	}
+
+	/* (non-Javadoc)
+	 * @see org.mt4j.sceneManagement.AbstractScene#init()
+	 */
+	@Override
+	public void init() {
+		// TODO Auto-generated method stub
+
+	}
+
+	/* (non-Javadoc)
+	 * @see org.mt4j.sceneManagement.AbstractScene#shutDown()
+	 */
+	@Override
+	public void shutDown() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

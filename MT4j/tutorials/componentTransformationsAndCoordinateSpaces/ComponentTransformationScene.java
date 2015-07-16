@@ -69,9 +69,17 @@ public class ComponentTransformationScene extends AbstractScene {
 		Vector3D localCompPoint = new Vector3D(25,80,0);
 		localCompPoint.transform(component.getLocalMatrix());
 		
+		System.out.println(localCompPoint.x);
+		System.out.println(localCompPoint.y);
+		System.out.println(localCompPoint.z);
+		
 		
 		Vector3D direction = new Vector3D(100,150,0);
 		direction.transformDirectionVector(component.getGlobalInverseMatrix());
+		
+		System.out.println(direction.x);
+		System.out.println(direction.y);
+		System.out.println(direction.z);
 		
 	}
 

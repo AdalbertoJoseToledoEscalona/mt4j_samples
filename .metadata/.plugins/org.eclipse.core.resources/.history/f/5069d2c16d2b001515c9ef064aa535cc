@@ -1,0 +1,42 @@
+/**
+ * 
+ */
+package geometricShapes;
+
+import org.mt4j.MTApplication;
+import org.mt4j.sceneManagement.AbstractScene;
+
+/**
+ * @author adalberto
+ *
+ */
+public class GeometricShapesScene extends AbstractScene {
+
+	/**
+	 * @param mtApplication
+	 * @param name
+	 */
+	public GeometricShapesScene(MTApplication mtApplication, String name) {
+		super(mtApplication, name);
+		// TODO Auto-generated constructor stub
+	}
+
+	/* (non-Javadoc)
+	 * @see org.mt4j.sceneManagement.AbstractScene#init()
+	 */
+	@Override
+	public void init() {
+		// TODO Auto-generated method stub
+
+	}
+
+	/* (non-Javadoc)
+	 * @see org.mt4j.sceneManagement.AbstractScene#shutDown()
+	 */
+	@Override
+	public void shutDown() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
