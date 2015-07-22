@@ -1,2 +1,8 @@
+action=ASK
+anonymizeMessages=false
+anonymizeStrackTraceElements=false
+configured=true
 eclipse.preferences.version=1
-problemsZipEtag="264669-51aa5d9f21400"
+email=adalberto.toledo@gmail.com
+name=Adalberto Toledo
+problemsZipEtag="2ed85d-51b0a8787cc40"

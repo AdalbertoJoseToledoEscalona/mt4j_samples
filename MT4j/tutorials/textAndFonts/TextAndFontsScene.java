@@ -1,0 +1,85 @@
+/**
+ * 
+ */
+package textAndFonts;
+
+import org.mt4j.MTApplication;
+import org.mt4j.components.visibleComponents.font.FontManager;
+import org.mt4j.components.visibleComponents.font.IFont;
+import org.mt4j.components.visibleComponents.font.fontFactories.BitmapFontFactory;
+import org.mt4j.components.visibleComponents.widgets.MTTextArea;
+import org.mt4j.components.visibleComponents.widgets.MTTextField;
+import org.mt4j.sceneManagement.AbstractScene;
+import org.mt4j.util.MTColor;
+
+import processing.core.PFont;
+
+/**
+ * @author adalberto
+ *
+ */
+public class TextAndFontsScene extends AbstractScene {
+
+	/**
+	 * @param mtApplication
+	 * @param name
+	 */
+	public TextAndFontsScene(MTApplication mtApplication, String name) {
+		super(mtApplication, name);
+		// Loading Vector fonts 
+		FontManager.getInstance().createFont(mtApplication, "arial.ttf", 24);
+		
+		IFont font = FontManager.getInstance().createFont(mtApplication, "keys.svg", 
+				50, //font Size 
+				new MTColor(0, 255, 255), //Font fill Color 
+				new MTColor(255, 255, 0)); //Font stroke Color
+		
+		//  Loading Bitmap Fonts 
+		for (String fontName: PFont.list()) {
+			System.out.println(fontName);
+		}
+		
+		IFont font2 = FontManager.getInstance().createFont(mtApplication, "SansSerif", 12, false);
+		
+		FontManager.getInstance().registerFontFactory(".ttf", new BitmapFontFactory());
+		
+		//Text Area 
+		
+		MTTextArea texta = new MTTextArea(0, 0, 200, 600, font, mtApplication);
+		texta.setText("ABCDEFGHIJKLMNOPQRSTUV\nWXYZ");
+		
+		MTTextArea text = new MTTextArea(mtApplication, FontManager.getInstance().createFont(mtApplication, "SansSerif", 18));
+		text.setText("ABCDEFGHIJKLMNOPQRSTUV\nWXYZ");
+
+
+		//Text Field 
+		
+		MTTextField field = new MTTextField(50, 50, 150, 30, FontManager.getInstance().createFont(mtApplication, "SansSerif", 18), mtApplication);
+		field.setText("ABCDEFGHIJKLMNOPQRSTUV\nWXYZ");
+		
+		getCanvas().addChild(texta);
+		
+		getCanvas().addChild(text);
+		
+		getCanvas().addChild(field);
+	}
+
+	/* (non-Javadoc)
+	 * @see org.mt4j.sceneManagement.AbstractScene#init()
+	 */
+	@Override
+	public void init() {
+		// TODO Auto-generated method stub
+
+	}
+
+	/* (non-Javadoc)
+	 * @see org.mt4j.sceneManagement.AbstractScene#shutDown()
+	 */
+	@Override
+	public void shutDown() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

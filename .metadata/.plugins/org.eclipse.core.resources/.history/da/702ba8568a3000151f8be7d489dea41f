@@ -1,0 +1,43 @@
+/**
+ * 
+ */
+package textAndFonts;
+
+import org.mt4j.MTApplication;
+import org.mt4j.sceneManagement.AbstractScene;
+
+/**
+ * @author adalberto
+ *
+ */
+public class TextAndFontsScene extends AbstractScene {
+
+	/**
+	 * @param mtApplication
+	 * @param name
+	 */
+	public TextAndFontsScene(MTApplication mtApplication, String name) {
+		super(mtApplication, name);
+		// Loading Vector fonts 
+		
+	}
+
+	/* (non-Javadoc)
+	 * @see org.mt4j.sceneManagement.AbstractScene#init()
+	 */
+	@Override
+	public void init() {
+		// TODO Auto-generated method stub
+
+	}
+
+	/* (non-Javadoc)
+	 * @see org.mt4j.sceneManagement.AbstractScene#shutDown()
+	 */
+	@Override
+	public void shutDown() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
